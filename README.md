@@ -55,8 +55,6 @@ OrderFlow/
 ├── model/
 ├── services/
 ├── tests/
-├── assets/
-│   └── screenshots/
 ├── main.py
 ├── .gitignore
 ├── LICENSE

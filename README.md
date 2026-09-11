@@ -159,7 +159,7 @@ OrderFlow demonstrates:
 - Application logging
 - Export of orders and reports to CSV/PDF
 - Packaging as a standalone desktop executable
-- Continuous integration with GitHub Actions
+- Code coverage reporting
 
 ## License
 

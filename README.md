@@ -139,21 +139,6 @@ Some of the main rules enforced by the application are:
 - Cancelling a previously confirmed order restores its stock.
 - Order lines retain their original unit price even if the product price changes later.
 
-## Screenshots
-
-Screenshots of the application can be added under:
-
-```text
-assets/screenshots/
-```
-
-Recommended screenshots:
-
-1. Clients management view
-2. Products and inventory view
-3. Orders view
-4. Order details window
-
 ## What this project demonstrates
 
 OrderFlow demonstrates:
